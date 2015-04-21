@@ -10,7 +10,7 @@ Queue assets and manage dependencies.
     $css_collection->add('assets/css/styles.css', 'styles')->dependsOn('reset');
     $css_collection->add('assets/css/foundation.css', 'foundation')->dependsOn('styles');
     $css_collection->add('assets/css/icons.css', 'icons');            
-    $css_collection->add('assets/css/fontawesome/font-awesome.min.css?no_min=true', 'fontawesome');
+    $css_collection->add('assets/css/fontawesome/font-awesome.min.css', 'fontawesome');
     
     //To resolve assets
     foreach($css_collection as $key => $location){
