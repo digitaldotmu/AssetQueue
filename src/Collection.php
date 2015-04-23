@@ -49,9 +49,9 @@
 
 		 $resolved = array();
 		 
-		 foreach($raw as $asset){
+		 foreach($raw as $key => $asset){
 		 	 if($asset instanceof AssetInterface){
-				$resolved[] = $asset->getLocation(); 
+				$resolved[$key] = $asset->getLocation(); 
 				$asset->resolved = true;
 		 	 } 
 		 }
