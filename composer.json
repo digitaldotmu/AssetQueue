@@ -1,5 +1,5 @@
 {
-    "name": "MatilisDigital/AssetQueue",
+    "name": "matilis-digital/asset-queue",
     "description": "Queue assets and manage dependencies",
     "keywords": [
         "assets", "matilis", "asset manager"
