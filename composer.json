@@ -1,0 +1,25 @@
+{
+    "name": "MatilisDigital/AssetQueue",
+    "description": "Queue assets and manage dependencies",
+    "keywords": [
+        "assets", "matilis", "asset manager"
+    ],
+    "homepage": "https://github.com/MatilisDigital/AssetQueue",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valery Ambroise",
+            "email": "vambroise@matilis.mu",
+            "homepage": "http://matilis.mu",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MatilisDigital\\AssetQueue\\": "src"
+        }
+    }
+}
