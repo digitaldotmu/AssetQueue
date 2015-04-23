@@ -22,5 +22,5 @@
             "MatilisLabs\\AssetQueue\\": "src"
         }
     },
-    "target-dir": "MatilisLabs/AssetQueue",
+    "target-dir": "MatilisLabs/AssetQueue"
 }
