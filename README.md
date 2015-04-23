@@ -8,7 +8,7 @@ Queue assets and manage dependencies.
 Via Composer
 
 ``` bash
-$ composer require matilis-digital/asset-queue
+$ composer require matilis-digital/asset-queue:dev-master
 ```
 
 ## Usage    
