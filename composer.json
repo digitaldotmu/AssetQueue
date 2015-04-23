@@ -21,6 +21,5 @@
         "psr-4": {
             "MatilisLabs\\AssetQueue\\": "src"
         }
-    },
-    "target-dir": "MatilisLabs/AssetQueue"
+    }
 }
