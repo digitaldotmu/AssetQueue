@@ -19,7 +19,8 @@
     },
     "autoload": {
         "psr-4": {
-            "MatilisDigital\\AssetQueue\\": "src"
+            "MatilisLabs\\AssetQueue\\": "src"
         }
-    }
+    },
+    "target-dir": "MatilisLabs/AssetQueue",
 }
